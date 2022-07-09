@@ -43,6 +43,7 @@ against winning combinations
 - JavaScript
 - React 
 - JSX
+- Boostrap
 
 
 ### MIT License
